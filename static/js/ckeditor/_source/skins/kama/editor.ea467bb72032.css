@@ -1,0 +1,25 @@
+/*
+Copyright (c) 2003-2012, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+@import url("/static/js/ckeditor/_source/skins/kama/reset.11f33e8ce671.css");
+@import url("/static/js/ckeditor/_source/skins/kama/mainui.912fe96ffb3b.css");
+@import url("/static/js/ckeditor/_source/skins/kama/panel.4b9211aa1c28.css");
+@import url("/static/js/ckeditor/_source/skins/kama/toolbar.5e0241b564a3.css");
+@import url("/static/js/ckeditor/_source/skins/kama/menu.43fa1bd84d6c.css");
+@import url("/static/js/ckeditor/_source/skins/kama/richcombo.80570b87361f.css");
+@import url("/static/js/ckeditor/_source/skins/kama/elementspath.df0b58844555.css");
+@import url("/static/js/ckeditor/_source/skins/kama/icons.ae9319b474d1.css");
+@import url("/static/js/ckeditor/_source/skins/kama/presets.cb74f8958cff.css");
+
+/* Restore the container visibility */
+html .cke_skin_kama
+{
+	visibility: inherit;
+}
+
+html.cke_skin_kama_container
+{
+	visibility: visible;
+}
